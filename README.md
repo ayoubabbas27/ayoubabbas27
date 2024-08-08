@@ -1,7 +1,7 @@
 # Hi, i'm Ayoub  👋
 🔭 I'm a Computer Science student at [Paris Saclay University](https://www.univ-evry.fr/accueil.html), France.
 <br />
-🚀 I'm currently A 3-6 month internship to apply my skills in a professional setting and contribute to impactful projects.
+🚀 I'm currently seeking a 3-6 month internship to apply my skills in a professional setting and contribute to impactful projects.
 <br />
 💫 passionate about coding and technology. Here's some info about me!
 

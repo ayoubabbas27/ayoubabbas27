@@ -8,7 +8,9 @@
 🌱 Interests:
 - Building products.
 - Sports.
-  
+<hr />
+## Featured Projects :
+- [CodeSnipix](https://codesnipix.vercel.app/)
 <hr />
 
 ## 💻 Tech Stack:

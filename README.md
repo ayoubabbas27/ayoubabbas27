@@ -11,7 +11,8 @@
 <hr />
 ## Featured Projects :
 <br />
-- Check out my latest project: [Code Snipix](https://codesnipix.vercel.app/)
+[Code Snipix](https://codesnipix.vercel.app/)
+
 <hr />
 
 ## 💻 Tech Stack:

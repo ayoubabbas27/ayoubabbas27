@@ -9,9 +9,10 @@
 - Building products.
 - Sports.
 <hr />
-## Featured Projects :
-<br />
-[Code Snipix](https://codesnipix.vercel.app/)
+
+## Featured Projects:
+
+- [Code Snipix](https://codesnipix.vercel.app/)
 
 <hr />
 

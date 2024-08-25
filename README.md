@@ -10,7 +10,8 @@
 - Sports.
 <hr />
 ## Featured Projects :
-- [CodeSnipix](https://codesnipix.vercel.app/)
+<br />
+- Check out my latest project: [Code Snipix](https://codesnipix.vercel.app/)
 <hr />
 
 ## 💻 Tech Stack:

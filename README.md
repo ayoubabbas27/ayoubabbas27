@@ -12,7 +12,7 @@
 
 ## Featured Projects:
 
-- [Code Snipix](https://codesnipix.vercel.app/)
+- [CodeSnipix](https://codesnipix.vercel.app/)
 
 <hr />
 

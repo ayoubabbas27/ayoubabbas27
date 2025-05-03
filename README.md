@@ -2,6 +2,8 @@
 🔭 I'm a Future Master's student in "Computer Science for Data Science" at [Paris Saclay University](https://www.univ-evry.fr/accueil.html), 
 <br />
 💫 Passionate about data science, software development, and artificial intelligence. Here's some info about me!
+<br/>
+🎯 My goal is to develop my skills by working on concrete projects and contributing to dynamic and innovative teams. I am currently looking for a 24-month apprenticeship in the field of Data Science, starting in September 2025.
 
 🌱 Interests:
 - Building products.

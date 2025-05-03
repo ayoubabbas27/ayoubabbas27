@@ -1,16 +1,11 @@
 # Hi, i'm Ayoub  👋
-🔭 I'm a Computer Science student at [Paris Saclay University](https://www.univ-evry.fr/accueil.html), France.
+🔭 I'm a Future Master's student in "Computer Science for Data Science" at [Paris Saclay University](https://www.univ-evry.fr/accueil.html), 
 <br />
-💫 passionate about coding and technology. Here's some info about me!
+💫 Passionate about data science, software development, and artificial intelligence. Here's some info about me!
 
 🌱 Interests:
 - Building products.
 - Sports.
-<hr />
-
-## Featured Projects:
-
-- [CodeSnipix](https://codesnipix.vercel.app/)
 
 <hr />
 
